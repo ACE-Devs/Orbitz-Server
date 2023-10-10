@@ -1,1 +1,2 @@
-1,Blade Of Pain,692406464;6;76758;68686;8
+128,Blade Of Pain,692406464;6;76758;68686;8
+128,Place Of Purity,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
