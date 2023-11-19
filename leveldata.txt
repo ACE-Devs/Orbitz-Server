@@ -1,4 +1,6 @@
 128,Blade Of Pain,692406464;6;76758;68686;8
 129,Place Of Purity,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
-129,Place Of Purity,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
-129,Place Of Purity,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
+129,Absolute Garbage,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
+129,Oui Oui,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
+129,die,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
+129,impossible,692406464;6fgbngnrgngnrgnrnrngr;76758;68686;8
